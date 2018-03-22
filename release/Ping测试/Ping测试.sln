@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ping测试", "Ping测试\Ping测试.csproj", "{DEF16468-0E87-4E4A-A97B-9B38FEF6F1F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEF16468-0E87-4E4A-A97B-9B38FEF6F1F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF16468-0E87-4E4A-A97B-9B38FEF6F1F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF16468-0E87-4E4A-A97B-9B38FEF6F1F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF16468-0E87-4E4A-A97B-9B38FEF6F1F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96CC8474-AC2A-4933-8EDE-4FE2BFFB20D5}
+	EndGlobalSection
+EndGlobal
