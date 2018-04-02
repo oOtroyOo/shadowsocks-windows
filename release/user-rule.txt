@@ -46,3 +46,7 @@ cdn.akamai.steamstatic.com
 store.akamai.steamstatic.com
 zodgame.us
 stripe.com
+fantia.jp
+tv-static.net
+*googleapis.com
+login.teamviewer.com
