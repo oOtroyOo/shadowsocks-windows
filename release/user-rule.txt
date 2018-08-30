@@ -50,3 +50,8 @@ fantia.jp
 tv-static.net
 *googleapis.com
 login.teamviewer.com
+gumroad.com
+sketchfab.com
+turbosquid.com
+appspot.com
+googleusercontent.com
