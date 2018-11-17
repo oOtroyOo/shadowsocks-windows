@@ -50,3 +50,9 @@ fantia.jp
 tv-static.net
 *googleapis.com
 login.teamviewer.com
+origin.com
+ea.com
+heyzo.com
+torrentkitty.tv
+atlassian.com
+shadowsocks.com

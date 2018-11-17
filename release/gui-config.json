@@ -7,6 +7,7 @@
       "method": "chacha20-ietf-poly1305",
       "plugin": "",
       "plugin_opts": "",
+      "plugin_args": "",
       "remarks": "",
       "timeout": 5
     },
@@ -17,26 +18,18 @@
       "method": "chacha20-ietf-poly1305",
       "plugin": "",
       "plugin_opts": "",
+      "plugin_args": "",
       "remarks": "",
       "timeout": 5
     },
     {
-      "server": "us2-sta24.9t94y.site",
+      "server": "hk5-sta24.9t94y.site",
       "server_port": 32526,
       "password": "k7LY8dybW25j",
       "method": "chacha20-ietf-poly1305",
       "plugin": "",
       "plugin_opts": "",
-      "remarks": "",
-      "timeout": 5
-    },
-    {
-      "server": "us1-sta24.9t94y.site",
-      "server_port": 32526,
-      "password": "k7LY8dybW25j",
-      "method": "chacha20-ietf-poly1305",
-      "plugin": "",
-      "plugin_opts": "",
+      "plugin_args": "",
       "remarks": "",
       "timeout": 5
     },
@@ -47,6 +40,73 @@
       "method": "chacha20-ietf-poly1305",
       "plugin": "",
       "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "jp2-sta24.9t94y.site",
+      "server_port": 32526,
+      "password": "k7LY8dybW25j",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "ru1-sta24.9t94y.site",
+      "server_port": 32526,
+      "password": "k7LY8dybW25j",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "uk1-sta24.9t94y.site",
+      "server_port": 32526,
+      "password": "k7LY8dybW25j",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "us1-sta24.9t94y.site",
+      "server_port": 32526,
+      "password": "k7LY8dybW25j",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "us2-sta24.9t94y.site",
+      "server_port": 32526,
+      "password": "k7LY8dybW25j",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "us3-sta24.9t94y.site",
+      "server_port": 32526,
+      "password": "k7LY8dybW25j",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
       "remarks": "",
       "timeout": 5
     },
@@ -57,6 +117,7 @@
       "method": "aes-256-cfb",
       "plugin": "",
       "plugin_opts": "",
+      "plugin_args": "",
       "remarks": "",
       "timeout": 5
     },
@@ -67,6 +128,7 @@
       "method": "aes-256-gcm",
       "plugin": "",
       "plugin_opts": "",
+      "plugin_args": "",
       "remarks": "",
       "timeout": 5
     },
@@ -77,12 +139,13 @@
       "method": "aes-256-cfb",
       "plugin": "",
       "plugin_opts": "",
+      "plugin_args": "",
       "remarks": "",
       "timeout": 5
     }
   ],
   "strategy": null,
-  "index": 3,
+  "index": 2,
   "global": false,
   "enabled": true,
   "shareOverLan": true,
