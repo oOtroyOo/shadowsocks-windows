@@ -54,4 +54,11 @@ gumroad.com
 sketchfab.com
 turbosquid.com
 appspot.com
+ssl.gstatic.com
 googleusercontent.com
+vuforia.com
+unity3d.com
+sajari.com
+sajari.com
+sajari.com
+githubusercontent.com
