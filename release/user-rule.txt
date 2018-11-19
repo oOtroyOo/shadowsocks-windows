@@ -56,3 +56,8 @@ heyzo.com
 torrentkitty.tv
 atlassian.com
 shadowsocks.com
+gumroad.com
+sketchfab.com
+turbosquid.com
+appspot.com
+googleusercontent.com
