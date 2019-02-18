@@ -1,121 +1,143 @@
 {
-  "configs": [
-    {
-      "server": "hk1-sta24.9t94y.site",
-      "server_port": 32526,
-      "password": "k7LY8dybW25j",
-      "method": "chacha20-ietf-poly1305",
-      "plugin": "",
-      "plugin_opts": "",
-      "remarks": "",
-      "timeout": 5
+    "configs": [
+        {
+            "server": "hk1-sta24.9t94y.site",
+            "server_port": 32526,
+            "local_port": 1080,
+            "password": "k7LY8dybW25j",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "\u9999\u6e2f,\u6578\u64da\u7528\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "hk3-sta24.9t94y.site",
+            "server_port": 32526,
+            "local_port": 1080,
+            "password": "k7LY8dybW25j",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "\u9999\u6e2f,\u6578\u64da\u7528\u91cf\u500d\u7387:0.01"
+        },
+        {
+            "server": "hk5-sta24.9t94y.site",
+            "server_port": 32526,
+            "local_port": 1080,
+            "password": "k7LY8dybW25j",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "\u9999\u6e2f,\u6578\u64da\u7528\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "jp1-sta24.9t94y.site",
+            "server_port": 32526,
+            "local_port": 1080,
+            "password": "k7LY8dybW25j",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "\u65e5\u672c,\u6578\u64da\u7528\u91cf\u500d\u7387:1.50"
+        },
+        {
+            "server": "jp2-sta24.9t94y.site",
+            "server_port": 32526,
+            "local_port": 1080,
+            "password": "k7LY8dybW25j",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "\u65e5\u672c,\u6578\u64da\u7528\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "ru1-sta24.9t94y.site",
+            "server_port": 32526,
+            "local_port": 1080,
+            "password": "k7LY8dybW25j",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "\u4fc4\u7f57\u65af,\u6578\u64da\u7528\u91cf\u500d\u7387:1.20"
+        },
+        {
+            "server": "uk1-sta24.9t94y.site",
+            "server_port": 32526,
+            "local_port": 1080,
+            "password": "k7LY8dybW25j",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "\u82f1\u56fd,\u6578\u64da\u7528\u91cf\u500d\u7387:0.10"
+        },
+        {
+            "server": "us1-sta24.9t94y.site",
+            "server_port": 32526,
+            "local_port": 1080,
+            "password": "k7LY8dybW25j",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "\u7f8e\u56fd,\u6578\u64da\u7528\u91cf\u500d\u7387:0.01"
+        },
+        {
+            "server": "us2-sta24.9t94y.site",
+            "server_port": 32526,
+            "local_port": 1080,
+            "password": "k7LY8dybW25j",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "\u7f8e\u56fd,\u6578\u64da\u7528\u91cf\u500d\u7387:0.01"
+        },
+        {
+            "server": "us3-sta24.9t94y.site",
+            "server_port": 32526,
+            "local_port": 1080,
+            "password": "k7LY8dybW25j",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "\u7f8e\u56fd,\u6578\u64da\u7528\u91cf\u500d\u7387:0.01"
+        },
+        {
+            "server": "45.62.240.247",
+            "server_port": 3600,
+            "password": "taochingchung",
+            "method": "aes-256-gcm",
+            "plugin": "",
+            "plugin_opts": "",
+            "plugin_args": "",
+            "remarks": "",
+            "timeout": 5
+        },
+        {
+            "server": "97.64.42.241",
+            "server_port": 84,
+            "password": "MVfiV9lHTi",
+            "method": "aes-256-cfb",
+            "plugin": "",
+            "plugin_opts": "",
+            "plugin_args": "",
+            "remarks": "",
+            "timeout": 5
+        }
+    ],
+    "strategy": null,
+    "index": 2,
+    "global": false,
+    "enabled": true,
+    "shareOverLan": true,
+    "isDefault": false,
+    "localPort": 1080,
+    "pacUrl": null,
+    "useOnlinePac": false,
+    "secureLocalPac": true,
+    "availabilityStatistics": false,
+    "autoCheckUpdate": true,
+    "checkPreRelease": false,
+    "isVerboseLogging": true,
+    "logViewer": {
+        "topMost": false,
+        "wrapText": false,
+        "toolbarShown": false,
+        "Font": "Consolas, 8pt",
+        "BackgroundColor": "Black",
+        "TextColor": "White"
     },
-    {
-      "server": "hk3-sta24.9t94y.site",
-      "server_port": 32526,
-      "password": "k7LY8dybW25j",
-      "method": "chacha20-ietf-poly1305",
-      "plugin": "",
-      "plugin_opts": "",
-      "remarks": "",
-      "timeout": 5
+    "proxy": {
+        "useProxy": false,
+        "proxyType": 0,
+        "proxyServer": "",
+        "proxyPort": 0,
+        "proxyTimeout": 3
     },
-    {
-      "server": "us2-sta24.9t94y.site",
-      "server_port": 32526,
-      "password": "k7LY8dybW25j",
-      "method": "chacha20-ietf-poly1305",
-      "plugin": "",
-      "plugin_opts": "",
-      "remarks": "",
-      "timeout": 5
-    },
-    {
-      "server": "us1-sta24.9t94y.site",
-      "server_port": 32526,
-      "password": "k7LY8dybW25j",
-      "method": "chacha20-ietf-poly1305",
-      "plugin": "",
-      "plugin_opts": "",
-      "remarks": "",
-      "timeout": 5
-    },
-    {
-      "server": "jp1-sta24.9t94y.site",
-      "server_port": 32526,
-      "password": "k7LY8dybW25j",
-      "method": "chacha20-ietf-poly1305",
-      "plugin": "",
-      "plugin_opts": "",
-      "remarks": "",
-      "timeout": 5
-    },
-    {
-      "server": "45.76.14.214",
-      "server_port": 9020,
-      "password": "hjnhggh",
-      "method": "aes-256-cfb",
-      "plugin": "",
-      "plugin_opts": "",
-      "remarks": "",
-      "timeout": 5
-    },
-    {
-      "server": "45.62.240.247",
-      "server_port": 3600,
-      "password": "taochingchung",
-      "method": "aes-256-gcm",
-      "plugin": "",
-      "plugin_opts": "",
-      "remarks": "",
-      "timeout": 5
-    },
-    {
-      "server": "97.64.42.241",
-      "server_port": 84,
-      "password": "MVfiV9lHTi",
-      "method": "aes-256-cfb",
-      "plugin": "",
-      "plugin_opts": "",
-      "remarks": "",
-      "timeout": 5
+    "hotkey": {
+        "SwitchSystemProxy": "",
+        "SwitchSystemProxyMode": "",
+        "SwitchAllowLan": "",
+        "ShowLogs": "",
+        "ServerMoveUp": "",
+        "ServerMoveDown": ""
     }
-  ],
-  "strategy": null,
-  "index": 3,
-  "global": false,
-  "enabled": true,
-  "shareOverLan": true,
-  "isDefault": false,
-  "localPort": 1080,
-  "pacUrl": null,
-  "useOnlinePac": false,
-  "secureLocalPac": true,
-  "availabilityStatistics": false,
-  "autoCheckUpdate": true,
-  "checkPreRelease": false,
-  "isVerboseLogging": true,
-  "logViewer": {
-    "topMost": false,
-    "wrapText": false,
-    "toolbarShown": false,
-    "Font": "Consolas, 8pt",
-    "BackgroundColor": "Black",
-    "TextColor": "White"
-  },
-  "proxy": {
-    "useProxy": false,
-    "proxyType": 0,
-    "proxyServer": "",
-    "proxyPort": 0,
-    "proxyTimeout": 3
-  },
-  "hotkey": {
-    "SwitchSystemProxy": "",
-    "SwitchSystemProxyMode": "",
-    "SwitchAllowLan": "",
-    "ShowLogs": "",
-    "ServerMoveUp": "",
-    "ServerMoveDown": ""
-  }
 }
