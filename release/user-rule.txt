@@ -40,10 +40,7 @@ dtiservices.com
 #bangumi.bilibili.com
 bwh1.net
 vultr.com
-steamcommunity.com
-steamuserimages-a.akamaihd.net
-cdn.akamai.steamstatic.com
-store.akamai.steamstatic.com
+
 zodgame.us
 stripe.com
 fantia.jp
@@ -61,7 +58,7 @@ sketchfab.com
 turbosquid.com
 appspot.com
 onedrive.live.com
-ssl.gstatic.com
+gstatic.com
 googleusercontent.com
 fig-memo-r18.site
 sankakucomplex.com
@@ -71,3 +68,9 @@ torrentkitty.tv
 anime1.*
 native-web.jp
 skytube.jp
+kejun.space
+kejun.me
+animeone.me
+anime1.me
+acg18
+1fichier.com
